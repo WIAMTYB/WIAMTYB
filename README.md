@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **Business.elmachhoune@gmail.com**
+- 📫 How to reach me **business.taybi@gmail.com**
 
 - 📄 Know about my experiences [https://me-qr.com/mobile/pdf/14475400](https://me-qr.com/mobile/pdf/14475400)
 
