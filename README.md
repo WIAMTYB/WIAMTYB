@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmachhoune" alt="elmachhoune" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/med_elmachhoune" target="blank"><img src="https://img.shields.io/twitter/follow/med_elmachhoune?logo=twitter&style=for-the-badge" alt="med_elmachhoune" /></a> </p>
+<p align="left"> <a href="https://twitter.com/med_elmachhoune" target="blank"><img src="https://img.shields.io/twitter/follow/med_elmachhoune?logo=twitter&style=for-the-badge" alt="wiamTaybi" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://elmachhoune.me/](https://elmachhoune.me/)
