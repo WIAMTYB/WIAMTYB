@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on [https://me-qr.com/mobile/pdf/14475400](https://me-qr.com/mobile/pdf/14475400)
 
 - 💬 Ask me about **Anything**
 
