@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/med_elmachhoune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="med_elmachhoune" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-el-machhoune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-el-machhoune" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wiam-taybi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-el-machhoune" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21596363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21596363" height="30" width="40" /></a>
 <a href="https://fb.com/m.elmachhoune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.elmachhoune" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed.elmachhoune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed.elmachhoune" height="30" width="40" /></a>
