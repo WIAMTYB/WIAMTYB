@@ -14,15 +14,15 @@
 <p align="left"> <a href="https://twitter.com/WiamTaybi" target="blank"><img src="https://img.shields.io/twitter/follow/wiam_taybi?logo=twitter&style=for-the-badge" alt="wiamTaybi" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://me-qr.com/mobile/pdf/14475400](https://me-qr.com/mobile/pdf/14475400)
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [https://me-qr.com/mobile/pdf/14475400](https://me-qr.com/mobile/pdf/14475400)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **business.taybi@gmail.com**
 
-- 📄 Know about my experiences [https://me-qr.com/mobile/pdf/14475400](https://me-qr.com/mobile/pdf/14475400)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **I think I am funny 😜**
 
