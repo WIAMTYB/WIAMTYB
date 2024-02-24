@@ -14,9 +14,9 @@
 <p align="left"> <a href="https://twitter.com/med_elmachhoune" target="blank"><img src="https://img.shields.io/twitter/follow/med_elmachhoune?logo=twitter&style=for-the-badge" alt="wiamTaybi" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://elmachhoune.me/](https://elmachhoune.me/)
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [https://www.facebook.com/groups/devinfodarijamaroc](https://www.facebook.com/groups/devinfodarijamaroc)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Anything**
 
